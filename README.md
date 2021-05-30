@@ -1,1 +1,14 @@
-# Time-series-analysis-
+# Time-series-analysis-Project 
+- ![1.png](https://github.com/DASHANANT/Time-series-analysis-/blob/main/Results/1.png)
+-  Airline-Passenger's data
+- ![3-data](https://github.com/DASHANANT/Time-series-analysis-/blob/main/Results/3-data.png)
+-  Checking measurements
+-  ![5](https://github.com/DASHANANT/Time-series-analysis-/blob/main/Results/5.png)
+-  After lag(1) difference 
+-  ![6](https://github.com/DASHANANT/Time-series-analysis-/blob/main/Results/6.png)
+-  ACF plot to Confirm Stationary series
+-  ![7](https://github.com/DASHANANT/Time-series-analysis-/blob/main/Results/7.png)
+-  ADF test results
+-  ![4](https://github.com/DASHANANT/Time-series-analysis-/blob/main/Results/4.png)
+-  results after Forcasting with AR and ARIMA model 
+-  ![2](https://github.com/DASHANANT/Time-series-analysis-/blob/main/Results/2.png)
